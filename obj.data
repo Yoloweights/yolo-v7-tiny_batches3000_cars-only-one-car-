@@ -1,0 +1,5 @@
+classes= 1
+train  = C:/Users/coding/Downloads/darknet-master/darknet-master/data/train.txt
+valid  = C:/Users/coding/Downloads/darknet-master/darknet-master/data/vaild.txt
+names  = C:/Users/coding/Downloads/darknet-master/darknet-master/data/customs.names
+backup = D:/weight
